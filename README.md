@@ -1,2 +1,2 @@
 # TCP-Conjestion-Control
-## Algorithms to efficiently control the Conjestion flow in TCP networks
+## Algorithms to efficiently control the Congestion flow in TCP networks
